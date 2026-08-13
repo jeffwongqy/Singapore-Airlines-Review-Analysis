@@ -17,7 +17,15 @@ Singapore airlines receives a large volume of customer reviews containing valuab
 
 ## 3. Sentiment Analysis (VADER)
 
-<img width="1170" height="597" alt="Screenshot 2026-08-13 211952" src="https://github.com/user-attachments/assets/a66ad0f1-9f70-4568-84d9-30b52dccefa5" />
+<img width="1170" height="600" alt="Screenshot 2026-08-13 211952" src="https://github.com/user-attachments/assets/a66ad0f1-9f70-4568-84d9-30b52dccefa5" />
+
+<img width="1170" height="600" alt="Screenshot 2026-08-13 212042" src="https://github.com/user-attachments/assets/61f76e25-9b5c-4a69-a362-afde83a0aeb4" />
+
+<img width="1170" height="600" alt="Screenshot 2026-08-13 212102" src="https://github.com/user-attachments/assets/9da23599-6381-4bbc-ac55-2877265f091d" />
+
+<img width="1170" height="600" alt="Screenshot 2026-08-13 212114" src="https://github.com/user-attachments/assets/e4ece6f4-700d-4a94-a712-5e362f4ac01b" />
+
+
 
 
 
