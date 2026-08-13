@@ -26,6 +26,21 @@ Singapore airlines receives a large volume of customer reviews containing valuab
 <img width="1170" height="600" alt="Screenshot 2026-08-13 212114" src="https://github.com/user-attachments/assets/e4ece6f4-700d-4a94-a712-5e362f4ac01b" />
 
 
+## 4. Hierarchical Clustering (Euclidean)
+<img width="1170" height="600" alt="Screenshot 2026-08-13 212310" src="https://github.com/user-attachments/assets/16707254-ec0e-4c13-942d-8bd0e19d915f" />
+
+<img width="1170" height="600" alt="Screenshot 2026-08-13 212324" src="https://github.com/user-attachments/assets/6b2cc61d-0649-4451-afd6-847e391caeea" />
+
+<img width="1170" height="600" alt="Screenshot 2026-08-13 212343" src="https://github.com/user-attachments/assets/6b28d394-7734-433f-9129-830e5f3bc307" />
+
+<img width="1170" height="600" alt="Screenshot 2026-08-13 212358" src="https://github.com/user-attachments/assets/07298281-11ca-4da1-9f1c-fea422f76503" />
+
+
+
+
+
+
+
 
 
 
