@@ -14,3 +14,13 @@ Singapore airlines receives a large volume of customer reviews containing valuab
 1. Analyse customer sentiment in Singapore Airlines reviews to identify positive, neutral, and negative feedback and determine the main words associated with each sentiment.
 2. Identify key topics and patterns in the reviews using topic modelling and clustering to understand the main areas of customer experience.
 3. Develop a text classification model using sentiment, dominant topic, and cluster as features to classify customer satisfaction into low, neutral, and high rating categories.
+
+## 3. Sentiment Analysis (VADER)
+
+<img width="1170" height="597" alt="Screenshot 2026-08-13 211952" src="https://github.com/user-attachments/assets/a66ad0f1-9f70-4568-84d9-30b52dccefa5" />
+
+
+
+
+
+
