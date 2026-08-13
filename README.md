@@ -13,7 +13,7 @@ Singapore airlines receives a large volume of customer reviews containing valuab
 ## 2. Project Objectives
 1. Analyse customer sentiment in Singapore Airlines reviews to identify positive, neutral, and negative feedback and determine the main words associated with each sentiment.
 2. Identify key topics and patterns in the reviews using topic modelling and clustering to understand the main areas of customer experience.
-3. Develop a text classification model using sentiment, dominant topic, and cluster as features to classify customer satisfaction into low, neutral, and high rating categories.
+3. Develop a text classification model using review text to classify customer sentiment into positive, neutral, and negative categories, based on the sentiment category generated from the sentiment analysis.
 
 ## 3. Sentiment Analysis (VADER)
 
