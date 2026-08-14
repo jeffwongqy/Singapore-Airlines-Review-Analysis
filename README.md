@@ -48,9 +48,6 @@ Singapore airlines receives a large volume of customer reviews containing valuab
 
 <img width="1170" height="600" alt="Screenshot 2026-08-14 085835" src="https://github.com/user-attachments/assets/38d91c0c-492e-4fa1-a657-096a0b6b4900" />
 
-
-<img width="1170" height="600" alt="Screenshot 2026-08-13 212657" src="https://github.com/user-attachments/assets/73c3b465-40f5-4402-a970-8c20ca0ab599" />
-
 <img width="1170" height="600" alt="Screenshot 2026-08-13 212709" src="https://github.com/user-attachments/assets/198a9ae3-6af3-4579-b618-d862c7528bd8" />
 
 
