@@ -29,11 +29,11 @@ Singapore airlines receives a large volume of customer reviews containing valuab
 ## 4. Hierarchical Clustering (Euclidean)
 <img width="1170" height="600" alt="Screenshot 2026-08-13 212310" src="https://github.com/user-attachments/assets/16707254-ec0e-4c13-942d-8bd0e19d915f" />
 
-<img width="1170" height="600" alt="Screenshot 2026-08-13 212324" src="https://github.com/user-attachments/assets/6b2cc61d-0649-4451-afd6-847e391caeea" />
+<img width="1170" height="600" alt="Screenshot 2026-08-14 085524" src="https://github.com/user-attachments/assets/a9970199-4b1d-4d50-8b69-a9d5829e38b3" />
 
-<img width="1170" height="600" alt="Screenshot 2026-08-13 212343" src="https://github.com/user-attachments/assets/6b28d394-7734-433f-9129-830e5f3bc307" />
+<img width="1170" height="600" alt="Screenshot 2026-08-14 085537" src="https://github.com/user-attachments/assets/3498cc0f-1441-43a8-82ac-f1a5ae472fec" />
 
-<img width="1170" height="600" alt="Screenshot 2026-08-13 212358" src="https://github.com/user-attachments/assets/07298281-11ca-4da1-9f1c-fea422f76503" />
+<img width="1170" height="600" alt="Screenshot 2026-08-14 085551" src="https://github.com/user-attachments/assets/ebefdfec-827e-4287-ad96-7631081e6460" />
 
 <img width="1170" height="600" alt="Screenshot 2026-08-13 212551" src="https://github.com/user-attachments/assets/1c8e1634-d29e-4707-b92c-49246d25a571" />
 
