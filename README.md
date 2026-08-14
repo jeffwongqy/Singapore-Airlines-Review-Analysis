@@ -40,13 +40,14 @@ Singapore airlines receives a large volume of customer reviews containing valuab
 ## 5. Topic Modelling (LDA)
 <img width="1170" height="600" alt="Screenshot 2026-08-13 212604" src="https://github.com/user-attachments/assets/09a5b772-c02e-48c8-bea0-047e1fc0f721" />
 
-<img width="1170" height="600" alt="Screenshot 2026-08-13 212616" src="https://github.com/user-attachments/assets/5714603c-3ddf-4bcf-91e1-744a71bb6e52" />
+<img width="1170" height="600" alt="Screenshot 2026-08-14 085743" src="https://github.com/user-attachments/assets/f1dee3ab-203c-4424-b515-91dfae63255d" />
 
-<img width="1170" height="600" alt="Screenshot 2026-08-13 212631" src="https://github.com/user-attachments/assets/41727d92-9ea1-4291-9cd6-a14925a8e218" />
+<img width="1170" height="600" alt="Screenshot 2026-08-14 085810" src="https://github.com/user-attachments/assets/3ffaa6c4-81c3-46f9-b81f-9723302a3cbb" />
 
-<img width="1170" height="600" alt="Screenshot 2026-08-13 212644" src="https://github.com/user-attachments/assets/edaff509-23d5-4bed-b411-db8435d14787" />
+<img width="1170" height="600" alt="Screenshot 2026-08-14 085822" src="https://github.com/user-attachments/assets/4fe80b63-7830-44df-950c-89ccd06be771" />
 
-<img width="1170" height="600" alt="Screenshot 2026-08-13 212644" src="https://github.com/user-attachments/assets/6aadd9eb-f358-4c61-98a4-ad2073d9cd74" />
+<img width="1170" height="600" alt="Screenshot 2026-08-14 085835" src="https://github.com/user-attachments/assets/38d91c0c-492e-4fa1-a657-096a0b6b4900" />
+
 
 <img width="1170" height="600" alt="Screenshot 2026-08-13 212657" src="https://github.com/user-attachments/assets/73c3b465-40f5-4402-a970-8c20ca0ab599" />
 
